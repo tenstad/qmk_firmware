@@ -91,14 +91,14 @@
             "KC_NO",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
             "KC_TRNS",
             "KC_NO",
             "KC_NO",
+            "KC_TRANSPARENT",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_TRANSPARENT",
+            "KC_TRANSPARENT",
+            "KC_TRANSPARENT"
         ],
         [
             "KC_NO",
@@ -139,14 +139,14 @@
             "KC_NO",
             "KC_NO",
             "KC_NO",
-            "KC_BSPC",
+            "KC_TRANSPARENT",
             "KC_NO",
-            "KC_TRNS",
-            "KC_DEL",
+            "KC_NO",
+            "KC_TRANSPARENT",
             "NO_0",
-            "KC_TAB",
-            "KC_SPC",
-            "KC_ENT"
+            "KC_TRANSPARENT",
+            "KC_TRANSPARENT",
+            "KC_TRANSPARENT"
         ],
         [
             "KC_NO",
@@ -185,16 +185,16 @@
             "KC_END",
             "KC_PGDN",
             "KC_NO",
-            "KC_TRNS",
             "KC_NO",
             "KC_NO",
+            "KC_TRANSPARENT",
             "KC_NO",
             "KC_NO",
+            "KC_TRANSPARENT",
             "KC_NO",
-            "KC_TRNS",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_TRANSPARENT",
+            "KC_TRANSPARENT",
+            "KC_TRANSPARENT"
         ],
         [
             "KC_NO",
@@ -234,15 +234,15 @@
             "KC_F13",
             "KC_F16",
             "KC_NO",
+            "KC_NO",
             "KC_TRNS",
             "KC_NO",
             "KC_NO",
+            "KC_TRANSPARENT",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_TRANSPARENT",
+            "KC_TRANSPARENT",
+            "KC_TRANSPARENT"
         ]
     ]
 }
